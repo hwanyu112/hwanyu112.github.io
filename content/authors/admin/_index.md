@@ -26,7 +26,8 @@ role: Ph.D Student
 organizations:
   - name: University of Chinese Academy of Sciences
     # url: https://openai.com/
-  - name: Institute of Automation, Chinese Academy of Sciences  
+  - name: Institute of Automation, Chinese Academy of Sciences 
+  - name: Research Intern at Microsoft Research Asia 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,7 +47,7 @@ profiles:
 interests:
   - Multimodal Reasoning
   - Large Multimodal Models
-  - Time Series
+  - Time Series Analysis
 
 education:
   - area: PhD Student
@@ -112,11 +113,11 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: python
       - name: Pytorch
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: C/C++
         description: ''
         percent: 40
@@ -128,15 +129,15 @@ skills:
       - name: Fitness
         description: ''
         percent: 80
-        icon: 💪🏻
+        icon: fitness
       - name: Basketball
         description: ''
         percent: 800
-        icon: 🏀
+        icon: basketball
       - name: Game
         description: ''
         percent: 80
-        icon: 🎮
+        icon: game
 
 languages:
   - name: English
@@ -179,6 +180,7 @@ languages:
 
 ## About Me
 
-I am a third-year Ph.D Student of artificial intelligence at the [State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)](https://mais.ia.ac.cn/) in [the Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) . Before starting my Ph.D, I was an undergraduate student in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am a third-year Ph.D Student of artificial intelligence at the [State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)](https://mais.ia.ac.cn/) in [the Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), advised by Prof.[Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). Before starting my Ph.D, I was an undergraduate student in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
-I’m deeply passionate about advancing the frontiers of ​multimodal large models​ and their ​reasoning capabilities, with a particular focus on unlocking their potential through the integration of ​vision and text. My research interests span ​multimodal reasoning, ​time series analysis, and the development of novel methodologies to empower large models with more ​intriguing and surprising capabilities. 
+I’m deeply passionate about advancing **​Multimodal AI**, **​General AI**, and **​Large Foundation Models**, particularly through the integration of ​vision and text. My current research focuses on **​multimodal reasoning**, and developing novel methodologies to unlock the ​intriguing and surprising potential of large models, while also having previously worked on **​time series analysis**. *I warmly welcome academic collaborations and discussions—feel free to reach out!*
+
