@@ -72,7 +72,7 @@ education:
   - area: BSc in Automation
     institution: Xi'an Jiaotong University
     date_start: 2018-09-01
-    date_end: 2022-6-31
+    date_end: 2022-06-31
     # summary: |
     #   GPA: 3.4/4.0
       
