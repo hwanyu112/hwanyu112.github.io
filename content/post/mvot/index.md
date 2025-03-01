@@ -1,5 +1,5 @@
 ---
-title: 🎉 Imagine while Reasoning!
+title: 🎉 Imagine while Reasoning
 summary: We have just released our latest work: Imagine while Reasoning in Space: Multimodal Visualization-of-Thought!
 date: 2025-01-13
 authors:

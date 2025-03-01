@@ -1,6 +1,6 @@
 ---
-title: 🎉 Our MME-RealWorld has been accepted by ICLR 2025!
-summary: ''
+title: 🎉 One paper accepted by ICLR 2025
+summary: Our MME-RealWorld has been accepted by ICLR 2025!
 date: 2025-01-23
 authors:
   - admin
