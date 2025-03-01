@@ -179,4 +179,6 @@ languages:
 
 ## About Me
 
-I am a third-year Ph.D Student of artificial intelligence at the [State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)](https://mais.ia.ac.cn/) in [the Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) . My research interests include Multimodal Reasoning, Large Multimodal Models and Time Series Analysis. Before starting my Ph.D, I was an undergraduate student in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am a third-year Ph.D Student of artificial intelligence at the [State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)](https://mais.ia.ac.cn/) in [the Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) . Before starting my Ph.D, I was an undergraduate student in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+
+I’m deeply passionate about advancing the frontiers of ​multimodal large models​ and their ​reasoning capabilities, with a particular focus on unlocking their potential through the integration of ​vision and text. My research interests span ​multimodal reasoning, ​time series analysis, and the development of novel methodologies to empower large models with more ​intriguing and surprising capabilities. 

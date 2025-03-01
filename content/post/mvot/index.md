@@ -1,17 +1,17 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🎉 Imagine while Reasoning!
+summary: We have just released our latest work: Imagine while Reasoning in Space: Multimodal Visualization-of-Thought!
+date: 2025-01-13
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - Multimodal Reasoning
+#   - Markdown
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+<!-- Create a personal knowledge base and share your knowledge with your peers.
 
 Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
 
@@ -135,4 +135,4 @@ Or use the `warning` callout type so your readers don't miss critical details:
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->

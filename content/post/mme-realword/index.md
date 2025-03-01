@@ -1,17 +1,17 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: 🎉 Our MME-RealWorld has been accepted by ICLR 2025!
+summary: ''
+date: 2025-01-23
 authors:
   - admin
 tags:
-  - Hugo Blox
+  - Multimodal Large Language Model
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+<!-- Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
 ## Ideation
 
@@ -91,4 +91,4 @@ renders as
   - [x] Write diagram example
 - [ ] Do something else
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
