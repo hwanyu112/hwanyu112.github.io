@@ -18,4 +18,9 @@ publishDate: '2025-03-01T09:39:32.668275Z'
 publication_types:
 - article-journal
 publication: '*The Thirteenth International Conference on Learning Representations*'
+
+url_pdf: https://arxiv.org/pdf/2408.13257
+url_code: 'https://github.com/yfzhang114/MME-RealWorld'
+url_dataset: 'https://huggingface.co/datasets/yifanzhang114/MME-RealWorld'
+url_project: 'https://mme-realworld.github.io/'
 ---
