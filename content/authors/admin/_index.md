@@ -6,8 +6,8 @@ title: Huanyu Zhang 张桓瑜
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Huanyu
+last_name: Zhang
 
 # Status emoji
 status:
