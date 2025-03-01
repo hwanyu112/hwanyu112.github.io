@@ -29,3 +29,6 @@ image:
   preview_only: false
 
 ---
+{{% callout note %}}
+By dynamically retrieving relevant information from an external knowledge base, our TimeRAF enhances prediction accuracy, leading to more precise zero-shot forecasting performance.
+{{% /callout %}}
