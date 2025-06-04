@@ -1,12 +1,13 @@
 ---
-title: 'A Call for New Recipes to Enhance Spatial Reasoning in MLLMs'
+title: 'Scaling and Beyond: Advancing Spatial Reasoning in MLLMs Requires New Recipes'
 authors:
 - Huanyu Zhang*
 - Chengzu Li*
 - Wenshan Wu
 - Shaoguang Mao
-- Yan xia
-- Ivan Vulić Furu Wei
+- Yifan Zhang
+- Haochen Tian
+- Ivan Vulić 
 - Zhang Zhang
 - Liang Wang
 - Tieniu Tan
