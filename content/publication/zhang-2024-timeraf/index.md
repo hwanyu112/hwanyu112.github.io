@@ -1,5 +1,5 @@
 ---
-title: 'TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting'
+title: 'TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting (TKDE 2025)'
 authors:
 - Huanyu Zhang
 - Chang Xu
