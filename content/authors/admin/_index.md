@@ -86,8 +86,8 @@ work:
     company_name: Microsoft Research Asia (MSRA)
     company_url: ''
     company_logo: ''
-    date_start: 2024-07
-    date_end: 2025-12
+    date_start: 2024-07-01
+    date_end: 2025-12-31
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
