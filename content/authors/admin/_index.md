@@ -27,7 +27,7 @@ organizations:
   - name: University of Chinese Academy of Sciences
     # url: https://openai.com/
   - name: Institute of Automation, Chinese Academy of Sciences 
-  - name: Research Intern @ Microsoft Research Asia 
+  - name: Intern @ Monnshot AI
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -86,8 +86,8 @@ work:
     company_name: Microsoft Research Asia (MSRA)
     company_url: ''
     company_logo: ''
-    date_start: 2024-07-01
-    date_end: ''
+    date_start: 2024-07
+    date_end: 2025-12
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -180,7 +180,9 @@ languages:
 
 ## About Me
 
-I am a third-year Ph.D Student of artificial intelligence at the [State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)](https://mais.ia.ac.cn/) in [the Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), advised by Prof.[Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). Before starting my Ph.D, I was an undergraduate student in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
+I am a forth-year Ph.D Student of artificial intelligence at the [State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS)](https://mais.ia.ac.cn/) in [the Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/), advised by Prof.[Tieniu Tan](http://people.ucas.ac.cn/~tantieniu). Before starting my Ph.D, I was an undergraduate student in Automation at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/).
 
-I’m deeply passionate about advancing **​Multimodal AI**, **​General AI**, and **​Large Foundation Models**, particularly through the integration of ​vision and text. My current research focuses on **​multimodal reasoning**, and developing novel methodologies to unlock the ​intriguing and surprising potential of large models, while also having previously worked on **​time series analysis**. *I warmly welcome academic collaborations and discussions—feel free to reach out!*
+I am currently an intern at Moonshot AI, and I will be on the job market soon, actively seeking research and engineering opportunities in industry and academia.
+
+I’m deeply passionate about advancing **​Multimodal AI**, **​General AI**, and **​Large Foundation Models**, particularly through the integration of ​vision and text. My current research focuses on **Visual Agents**, and developing novel methodologies to unlock the ​intriguing and surprising potential of large models, while also having previously worked on **multimodal reasoning**. *I warmly welcome academic collaborations and discussions—feel free to reach out!*
 
